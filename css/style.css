@@ -1,0 +1,156 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.colornav {
+  color: red;
+}
+
+.containeruno {
+  width: 1200px;
+  height: 800px;
+  background-color: cyan;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.containerimagenuno {
+  width: 1000px;
+  height: 300px;
+
+  margin: auto;
+  background-image: url(../img/291-lev-nikolaievich-tolstoi-201401-06.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+}
+
+.navig li {
+  display: inline;
+  margin-left: 150px;
+  color: red;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.containerimagenuno h1 {
+  padding-top: 20px;
+  text-align: center;
+  color: red;
+  margin-bottom: 20px;
+}
+
+.zagolovoktexta {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.zagolovoktexta h2 {
+  color: red;
+  font-size: large;
+  font-weight: bold;
+}
+h2 {
+  font-weight: bolder;
+}
+h4 {
+  font-weight: bolder;
+}
+.textouno {
+  margin: auto;
+  width: 900px;
+  height: 400px;
+}
+
+.textouno p {
+  font-size: large;
+  color: black;
+  padding: auto;
+  font-weight: bold;
+}
+
+.containerdos {
+  width: 1200px;
+  height: 800px;
+  background-color: cyan;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.containerimagendos {
+  width: 1000px;
+  height: 300px;
+  background-color: aqua;
+  margin: auto;
+  background-image: url(../img/instituto\ adentro.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+}
+
+.zagolovokdos {
+  padding-top: 20px;
+}
+.zagolovokdos h3 {
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
+  color: red;
+}
+
+.containertres {
+  width: 1200px;
+  height: 800px;
+  background-color: cyan;
+  margin: auto;
+}
+
+.containerimagentres {
+  width: 1000px;
+  height: 300px;
+  background-color: red;
+  margin: auto;
+  background-image: url(../img/plaza-roja-moscu.jpg);
+  background-repeat: no-repeat;
+
+  background-position: center;
+  margin-bottom: 50px;
+}
+
+.titulotres {
+  padding-top: 20px;
+}
+.titulotres h4 {
+  text-align: center;
+  font-size: large;
+  color: red;
+}
+
+.cdlrtexto {
+  width: 800px;
+  height: 50px;
+  margin: auto;
+}
+.cdlrtexto p {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: black;
+}
+
+.contactenostexto {
+  width: 800px;
+  height: 200px;
+  background-color: brown;
+  margin: auto;
+}
+.contactenostexto p {
+  text-align: center;
+  text-decoration: double;
+  font-size: large;
+  font-weight: bolder;
+  padding-top: 20px;
+}
